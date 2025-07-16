@@ -6,3 +6,8 @@ A silly 2D game coded in python using the PyGame package. This repository contai
 - ___.png: graphics used in the game (many of these are self-made using pen/paper, and then enhanced in paint)
 - boxcat.mp3: soundtrack used in the introduction
 - bump.wav: only sound used in the game, when walking into trees/obstacles 
+
+<figure>
+  <img src="FangDenHjorten.png" alt="Alt text" width="400"/>
+  <figcaption><em>Figure 1: This is the caption for the image.</em></figcaption>
+</figure>
