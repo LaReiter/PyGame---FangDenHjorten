@@ -13,6 +13,6 @@ A silly 2D game coded in python using the PyGame package. This repository contai
     <img src="FangDenHjorten3.png" width="300" alt="Part 2"/>
   </div>
   <p style="margin-top: 1em;">
-    <em>Figure 1: First and second parts of the game – searching for the deer’s castle and defeating the deer by kicking balls.</em>
+    <em>Figure: Early and late part of the game: Searching for the deer’s castle and defeating the deer by reflecting balls.</em>
   </p>
 </div>
