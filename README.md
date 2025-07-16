@@ -7,15 +7,11 @@ A silly 2D game coded in python using the PyGame package. This repository contai
 - boxcat.mp3: soundtrack used in the introduction
 - bump.wav: only sound used in the game, when walking into trees/obstacles 
 
-<div style="display: flex; gap: 2em; align-items: flex-start;">
-  <figure style="margin: 0;">
-    <img src="FangDenHjorten.png" width="300"/>
-    <figcaption><em>Figure 1: Searching for the castle of the deer.</em></figcaption>
-  </figure>
-
-  <figure style="margin: 0;">
-    <img src="FangDenHjorten3.png" width="300"/>
-    <figcaption><em>Figure 2: Defeating the deer by reflecting balls.</em></figcaption>
-  </figure>
-</div>
+<figure style="display: flex; gap: 2em; justify-content: center; align-items: flex-start;">
+  <img src="FangDenHjorten.png" width="300" alt="First part of the game"/>
+  <img src="FangDenHjorten3.png" width="300" alt="Second part of the game"/>
+  <figcaption style="text-align: center; width: 100%; margin-top: 1em;">
+    <em>Figure 1: First and second parts of the game – searching for the deer’s castle and defeating the deer by kicking balls.</em>
+  </figcaption>
+</figure>
 
